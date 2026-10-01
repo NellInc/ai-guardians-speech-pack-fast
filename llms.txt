@@ -1,0 +1,14 @@
+# AI Guardians Fast Speech Pack
+
+> The faster-paced speech asset variant used by the AI Guardians web game.
+
+This pack contains pre-encoded version 2 voice lines at 20% faster pace, in mono Opus format at 32 kbps. The web game streams these clips when the player selects Fast voice speed.
+
+## Game
+
+- [AI Guardians](https://www.aiguardians.games/): The main game website.
+
+## Pack documentation
+
+- [Fast speech pack documentation](https://github.com/NellInc/ai-guardians-speech-pack-fast/blob/main/README.md): The variant's format and playback purpose.
+- [Standard speech pack documentation](https://github.com/NellInc/ai-guardians-speech-pack/blob/main/README.md): The standard speech packs and their version history.
